@@ -2,7 +2,7 @@
   "name": "mosnter-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sumanasattar.github.io/monster-card",
+  "homepage": "https://sumanaSattar.github.io/monster-card",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
