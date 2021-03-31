@@ -23,6 +23,7 @@ class App extends Component {
     console.log(filteredField)
     return(
       <div>
+        <h1 className="heading App">Monster Cards</h1>
         <SearchField placeholder='search the robots' evenHandler={e=>{this.setState({searchField:e.target.value},()=>console.log(this.state.searchField))}}/>
         
         <CardList monster={filteredField} />
