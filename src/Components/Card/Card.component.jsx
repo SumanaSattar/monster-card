@@ -1,6 +1,6 @@
 import './card.styles.css'
 export const Card = (props) => {
-    console.log(props.monsters)
+  
     return ( 
     <div className="card-container">
 
